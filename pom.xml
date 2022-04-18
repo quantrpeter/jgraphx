@@ -12,9 +12,6 @@
 		<maven.compiler.compilerVersion>17</maven.compiler.compilerVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<dependencies>
-	</dependencies>
-    
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
